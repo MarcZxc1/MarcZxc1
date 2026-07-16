@@ -5,7 +5,7 @@ focused on building reliable web, mobile, and AI-assisted systems.
 
 ## Current projects
 
-- **Qwykz** — TypeScript boilerplate and project generator
+- **Qwykz** — A lightning-fast CLI tool built with Bun to scaffold organized Backend, Frontend, and Fullstack starter applications for beginners and AI-assisted development.
 - **DiffGuard** — AI-assisted pull-request security reviewer
 - **El-Diego** — The Central Nervous System for El Diego Coffee Operations.
 - **Business Virtual Assistant** — Anti-scam Android application
