@@ -8,7 +8,7 @@ focused on building reliable web, mobile, and AI-assisted systems.
 - **Qwykz** — A lightning-fast CLI tool built with Bun to scaffold organized Backend, Frontend, and Fullstack starter applications for beginners and AI-assisted development.
 - **DiffGuard** — AI-assisted pull-request security reviewer
 - **El-Diego** — The Central Nervous System for El Diego Coffee Operations.
-- **Business Virtual Assistant** — Anti-scam Android application
+- **Business Virtual Assistant** — A comprehensive business management platform with inventory management, AI-powered restocking, and multi-platform integrations.
 - **Home Repair Service Platform** — Full-stack platform for booking and managing home repair services (Philippines). 
 
 ## Tech stack
