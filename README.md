@@ -27,5 +27,5 @@ application security, performance trade offs, and observability.
 ## Contact
 
 - LinkedIn: TBA
-- Portfolio: TBA
+- Portfolio: https://marc-dagode-portfolio.vercel.app/
 - Email: dagodemarcgeraldrante@gmai.com
