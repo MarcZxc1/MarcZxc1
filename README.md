@@ -14,8 +14,8 @@ focused on building reliable web, mobile, and AI-assisted systems.
 ## Tech stack
 
 **Frontend:** TypeScript, React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Bun, Express, FastAPI, Django, Postman, Bruno
-**Database:** PostgreSQL, Supabase, Prisma, PostGIS, Redis
+**Backend:** Node.js, Bun, Express, FastAPI, Django, Postman, Bruno  
+**Database:** PostgreSQL, Supabase, Prisma, PostGIS, Redis   
 **DevOps:** Docker, GitHub Actions, Render, Vercel, CLoudFlare
 
 
